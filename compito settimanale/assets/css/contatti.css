@@ -1,0 +1,27 @@
+body {
+    font-family: 'Fira Sans', sans-serif;
+}
+
+
+.row {
+    flex-direction: row;
+}
+
+.centrare {
+    display: flex;
+    align-content: center;
+}
+
+#sezione_sinistra {
+    display: flex;
+    align-content: flex-start;
+}
+
+#sezione_destra {
+    display: flex;
+    align-content: flex-end;
+}
+
+h1 {
+    text-align: center;
+}

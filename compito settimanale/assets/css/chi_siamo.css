@@ -1,0 +1,54 @@
+body {
+    font-family: 'Fira Sans', sans-serif;
+}
+
+
+.testocentrato {
+    text-align: center;
+}
+
+
+#2foto {
+    display: flex;
+    justify-content:space-evenly ; 
+}
+
+.inclinato {
+        padding: 3em 1em;
+        font-weight: bold;
+        text-align: center;
+        transform: skewX(-6deg);
+}
+
+.uno {
+    background-color: rgb(133, 232, 245);
+}
+
+.due {
+    background-color: red;
+}
+
+.tre {
+    background-color: yellow;
+}
+
+.specifiche_corso {
+    padding: 10px;
+    background-color: turquoise;
+    display: block;
+}
+
+#2foto {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+div {
+    display: block;
+}
+
+footer {
+
+margin-top: 20  px;
+}

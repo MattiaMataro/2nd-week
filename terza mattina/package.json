@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  },
+  "name": "testsass",
+  "version": "1.0.0",
+  "description": "primo test con sass",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

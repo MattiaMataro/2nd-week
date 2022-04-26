@@ -1,0 +1,12 @@
+@import "variabili";
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: $colorePrimario;
+    margin-bottom: 10px;
+}
+
+a {
+    color: $colorePrimario;
+    text-transform: uppercase;
+}
+
